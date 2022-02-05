@@ -1,0 +1,21 @@
+echo
+"Start Date <input type='date' value='2021-02-25'>" .
+"&nbsp&nbsp" .
+"End Date <input type='date' value='2021-03-05'>" .
+"" .
+"<br/>" .
+"<br/>" .
+"" .
+"<label for='employees'>Employee:</label>" .
+"<select id='employees' name='employees'>" .
+"   <option value='all'>All</option>" .
+"  <option value='1'>John Smith</option>" .
+"  <option value='2'>Employee McWorker</option>" .
+"  <option value='3'>Wanda Blevins</option>" .
+"  <option value='4'>Jack Valladares</option>" .
+"  <option value='5'>Theguy McGee</option>" .
+"  <option value='6'>Theman Withaplan</option>" .
+"</select>" .
+"&nbsp&nbsp" .
+"<button>Export to Excel Document</button>" .
+;

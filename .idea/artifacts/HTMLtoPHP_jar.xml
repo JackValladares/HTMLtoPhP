@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HTMLtoPHP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HTMLtoPHP_jar</output-path>
+    <root id="archive" name="HTMLtoPHP.jar">
+      <element id="module-output" name="HTMLtoPHP" />
+    </root>
+  </artifact>
+</component>
